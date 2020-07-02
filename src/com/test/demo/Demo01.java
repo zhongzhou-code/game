@@ -20,4 +20,5 @@ public class Demo01 {
             control.nextGeneration(map);
         }
     }
+    //...........
 }
