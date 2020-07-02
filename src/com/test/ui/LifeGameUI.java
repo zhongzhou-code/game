@@ -3,7 +3,6 @@ package com.test.ui;
 
 import com.test.service.Controller;
 import com.test.service.ControllerIm;
-import com.test.service.TimerIm;
 
 import javax.swing.*;
 import java.awt.*;
@@ -17,7 +16,7 @@ public class LifeGameUI extends JFrame implements ActionListener {
     boolean running;
     private int[][] Map;
     private Controller control = new ControllerIm();
-    private TimerIm time = new TimerIm();
+    //private TimerIm time = new TimerIm();
 
     private static LifeGameUI frame;
     private int maxWidth,maxLength;

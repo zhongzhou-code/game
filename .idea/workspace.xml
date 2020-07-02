@@ -1,55 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6031a80-6279-443f-a67b-3ef125e2fc91" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.checkstyle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New File.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New File/META-INF/New File.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New File/com/intellij/uiDesigner/core/AbstractLayout.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New File/com/intellij/uiDesigner/core/DimensionInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New File/com/intellij/uiDesigner/core/GridConstraints.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New File/com/intellij/uiDesigner/core/GridLayoutManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New File/com/intellij/uiDesigner/core/HorizontalInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New File/com/intellij/uiDesigner/core/LayoutState.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New File/com/intellij/uiDesigner/core/Spacer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New File/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New File/com/intellij/uiDesigner/core/SupportCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New File/com/intellij/uiDesigner/core/Util.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New File/com/intellij/uiDesigner/core/VerticalInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New File/com/test/demo/Demo01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New File/com/test/demo/Demo02$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New File/com/test/demo/Demo02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New File/com/test/entity/GameMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New File/com/test/service/Controller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New File/com/test/service/ControllerIm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New File/com/test/service/Timer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New File/com/test/service/TimerIm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New File/com/test/ui/LifeGameUI$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New File/com/test/ui/LifeGameUI$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New File/com/test/ui/LifeGameUI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/test/demo/Demo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/test/demo/Demo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/test/entity/GameMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/test/service/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/test/service/ControllerIm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/test/service/Timer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/test/service/TimerIm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/test/ui/LifeGameUI.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/test/ui/LifeGameUI.java" afterDir="false" />
-    </list>
+    <list default="true" id="c6031a80-6279-443f-a67b-3ef125e2fc91" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -112,8 +64,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/test/entity/GameMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+            <state relative-caret-position="78">
+              <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -340,27 +292,34 @@
       <workItem from="1589964617773" duration="318000" />
       <workItem from="1590044813411" duration="1412000" />
     </task>
+    <task id="LOCAL-00001" summary="IDEA整合GitHub测试">
+      <created>1593702151319</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593702151320</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="5946000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1030" extended-state="6" />
-    <editor active="true" />
+    <frame x="175" y="28" width="1514" height="975" extended-state="0" />
     <layout>
       <window_info id="UI Designer" order="0" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.16187434" />
+      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.20652173" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="5" />
       <window_info id="Capture Tool" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32972324" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
       <window_info anchor="bottom" id="Terminal" order="2" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="4" weight="0.259301" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.25846502" />
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
@@ -383,6 +342,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="IDEA整合GitHub测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="IDEA整合GitHub测试" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/test/Demo/Demo1.java" />
@@ -452,8 +415,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/test/entity/GameMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+        <state relative-caret-position="78">
+          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
         </state>
       </provider>
     </entry>
